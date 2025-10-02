@@ -1,2 +1,2 @@
-function main() {return 'Hello World';}
+function main() { return 'Hello from GitHub!'; }
 // Новый функционал
